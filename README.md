@@ -75,10 +75,6 @@ spotify-30sec-player/
 - Make sure to keep your `Client ID` and `Client Secret` secure.
 - The application only plays previews available via Spotify.
 
----
-
-## License
-This project is licensed under the MIT License. Feel free to use and modify the code.
 
 ---
 
